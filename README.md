@@ -1,4 +1,4 @@
-# CI/CD Pipeline with Docker and Jenkins
+# CI/CD Pipeline with GitHub , Docker and Jenkins
 ![maxraaesdefault](https://github.com/CydexCode/CI-CD-Pipeline-With-GitHub-Docker-and-Jenkins/assets/112784979/cfc74d18-62fd-4399-8997-658edcac82b0)
 
 This repository contains code for setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline using Docker and Jenkins. The pipeline automates the process of building, testing, and deploying applications, ensuring efficiency and consistency in software development workflows.
