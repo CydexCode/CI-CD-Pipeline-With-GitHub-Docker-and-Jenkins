@@ -48,10 +48,3 @@ To set up the CI/CD pipeline in your environment, follow these steps:
 - DockerHub account
 - Docker installed on Jenkins server
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
