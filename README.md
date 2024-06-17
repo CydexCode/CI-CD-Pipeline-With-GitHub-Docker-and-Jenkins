@@ -10,7 +10,7 @@ This repository contains code for setting up a Continuous Integration/Continuous
 The CI/CD pipeline involves the following steps:
 ![Screenshot 2024-06-16 181705](https://github.com/CydexCode/CI-CD-Pipeline-With-GitHub-Docker-and-Jenkins/assets/112784979/718b7228-44c4-4ab9-bd4d-1ea769d00cb9)
 
-1. **GitHub Push : **
+1. **GitHub Push :**
 The CI/CD process begins when code changes are pushed to a GitHub repository. This could involve new features, bug fixes, or other updates. Developers commit their changes and push them to a specific branch in the repository.
 
 2. **Jenkins Build Trigger :**
